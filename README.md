@@ -1,2 +1,2 @@
 # elements
-basi chemistry
+basic chemistry
